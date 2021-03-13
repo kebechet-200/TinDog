@@ -1,0 +1,59 @@
+#title {
+    background-color: #ff4c68;
+    color: #fff
+}
+
+.navbar-brand {
+    font-size: 1.3rem;
+    margin-top: 50px;
+    font-weight: bold;
+}
+    .container-fluid {
+    padding: 8% 15%;
+}
+
+h1 {
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.content {
+    margin-top: 50px;
+}
+/*
+aq li aris tetri feris da magitom ar adzlevs shav fers navbar itemebs amitom tagebit unda davwero
+*/
+
+#navbar-item-first,
+#navbar-item-middle,
+#navbar-item-last {
+    color: #444444;
+    font-size: 1.2rem;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+.title-image {
+    width: 30%;
+    height: 10%;
+    transform: rotate(25deg);
+}
+
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+
+p {
+    color: #8f8f8f;
+}
+
+.icon {
+    color:#ef8172
+}
